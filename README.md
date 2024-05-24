@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepak 
 - 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently stydying Master of Computing & Innovation from University of Adelaide, South Australia
+- 🌱 I completed Master of Computing & Innovation from University of Adelaide, South Australia
 - 💞️ I’m looking to collaborate on Full Stack Web Development and Machine Learning Algorithms
 - 📫 Please reach me through email: deepakkbagra@gmail.com and LinkedIn: linkedin.com/in/deepaksharma3409 
 
